@@ -1,13 +1,11 @@
 <?php
+$a = "Wahaha";
+
 $msg = <<< 'EOD'
-  <?php
-  $a = "Wahaha";
-  echo $a;
-  ?>
   <html>
     <body>
       <h1>aaa</h1>
-      <?php echo $a ?>
+      {$a}
     </body>
   </html>
 EOD;
