@@ -13,16 +13,15 @@
     $tokuten = 45;
     $isPass = ($tokuten > 80);
     $userName;
-    ?>
-    <pre>
-      <?php
+    
+    echo "<pre>";
       var_dump($msg);
       var_dump($colors);
       var_dump($now);
       var_dump($tokuten);
       var_dump($isPass);
       var_dump($userName);
-      ?>
-    </pre>
+    echo "</pre>";
+    ?>
 </body>
 </html>
