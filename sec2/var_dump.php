@@ -6,6 +6,7 @@
   <title>Document</title>
 </head>
 <body>
+  <pre>
   <?php
   $msg = "おはよう";
   $colors = ["red", "blue", "green"];
@@ -19,7 +20,7 @@
   var_dump($tokuten);
   var_dump($isPass);
   var_dump($userName);
-
   ?>
+  </pre>
 </body>
 </html>
