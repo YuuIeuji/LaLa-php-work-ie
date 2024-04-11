@@ -1,3 +1,6 @@
+<?php
+declare(strict_types=1);
+?>
 <!doctype html>
 <html lang="ja">
   <head>
@@ -19,4 +22,4 @@
   </body>
 </html>
 
-<!-- 修正時刻: Thu 2024/04/11 18:24:46 -->
+<!-- 修正時刻: Fri 2024/04/12 07:06:20 -->
